@@ -12,3 +12,10 @@
 // Console.WriteLine($"First roll: {roll1}");
 // Console.WriteLine($"Second roll: {roll2}");
 // Console.WriteLine($"Third roll: {roll3}");
+
+// Exercise - Complete a challenge activity to discover and implement a method call
+// int firstValue = 500;
+// int secondValue = 600;
+// int largerValue = Math.Max(firstValue, secondValue);
+
+// Console.WriteLine(largerValue);
